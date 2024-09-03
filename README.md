@@ -36,7 +36,7 @@ I have leaded development in many *unfinished projects*, as well as currently wo
     - Basic MM2 Framework / Gameplay Programming
     - User Interface
 
--** Lead Backend at (2) Battlegrounds**
+- **Lead Backend at (2) Battlegrounds**
   During November to March 2023-2024, I was apart of 2 different battlegrounds for short period of time, where I made essential battleground framework for both in short amount of time.
     - Shop
     - Inventory
