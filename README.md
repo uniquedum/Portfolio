@@ -72,3 +72,7 @@ I have leaded development in many *unfinished projects*, as well as currently wo
 
 ## Contact me
 - You can contact me on Discord, my username is **uniquedummy** for additional information.
+
+## Work Display
+- Currently I have put together my current dev related videos, I have linked it below, I will be adding better videos that are more intuitive as time follows.
+   [Youtube Video](https://youtu.be/mAeEHZPVACs)
