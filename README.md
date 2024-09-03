@@ -11,6 +11,17 @@
 ## Experience
 I have leaded development in many *unfinished projects*, as well as currently working on two projects that are very extensive and has game features that are new to the engine as a whole.
 
+- **Random Commisions**
+ Throughout my career I've accepted and worked on many commision Projects, things I've made for other people include:
+  - Blackjack, Plinko, Mines, Dragon Tower Gambling System
+  - Interactive Dialogue System for a RPG Game
+  - Party System for a Battlegrounds
+  - Dynamic Stock Trading System
+  - Blooket / Quizziz Game
+  - Basic Clicker Simulator with Pets / Crates
+  - Custom Private Server System with Subscription based purchases
+  - Multiple Cross Server Matchmaking systems
+
 - **Lead Developer at Tokyo'77**
   I was the main programmer for the game and I made countless of core features such as:
    - Custom Inventory
